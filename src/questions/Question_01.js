@@ -23,7 +23,7 @@ export default function Question_01() {
 
   // 定数群
   const message = "Hello World!";   // 変更しない
-  const date = "竹井翼";                  // 本日の日付 (YYYY/MM/DD)
+  const date = "2024/09/26";                  // 本日の日付 (YYYY/MM/DD)
   const id = "13";                    // あなたの学籍番号
 
   return (
